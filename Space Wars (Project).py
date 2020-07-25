@@ -214,14 +214,5 @@ while True:
         break
 
 
-#bibliography
-#Christian Thompson, youtube.com
-#Programmers' Colloqouy, youtube.com
-#Zamzar.com, file conversion
-#resizeimage.net, Online Image Resizer
-#kindpng.com
-#pixabay.com    
-
-
 
 
